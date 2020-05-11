@@ -1,0 +1,44 @@
+body {
+    background-image: url(../images/bussiness.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#wrapper {
+    background: #CCC;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #000000;
+}
+
+#wrapper h1 {
+    text-align: center;
+}
+
+.first_num {
+    margin-bottom: 20px;
+}
+
+.second_num {
+    margin-bottom: 20px;
+}
+
+.select {
+    margin-bottom: 20px;
+    margin-left: 75px;
+}
+
+.submit {
+    margin-left: 75px;
+}
+
+.result {
+
+    width: 100px;
+    border-radius: 10px;
+}
+
